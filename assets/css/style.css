@@ -1,0 +1,26 @@
+﻿body {
+}
+a {
+    color: #FFEB3B !important;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+a:hover{color:#fff;}
+
+.heading_bg{background-color:#00BCD4;
+            color:#fff;
+           text-align:center;}
+           
+.label_bold{font-weight:bold;}
+
+.text_center{text-align:center;}
+#header{ background-color:#3F51B5; color:#fff; padding:10px;}
+#footer{text-align:center; background-color:#000; color:#fff; padding:5px;}
+
+
+.headertable{padding:20px;}
+
+
+
+
