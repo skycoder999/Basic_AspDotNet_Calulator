@@ -1,6 +1,12 @@
 # Basic_AspDotNet_Calulator
 Basic_AspDotNet_Calulator
 
+#Tech Used
+
+Bootstrap for Responsive Design
+
+Asp.Net
+
 ## You may perform basic arthimetic operations with this basic calculator
 
 
